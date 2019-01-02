@@ -20,5 +20,5 @@ def prettyprint(solution):
         return '.' *pos+'+' + '.'*(length-pos-1)
     for pos in solution:
         print( line(pos))
-
+ //some change
 
